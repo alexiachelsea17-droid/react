@@ -1,11 +1,4 @@
 @import "tailwindcss";
-<<<<<<< HEAD
-
-@plugin "daisyui" {
-  themes: light --default, autumn --prefersdark, cupcake;
-}
-=======
 @plugin "daisyui" {
   themes: valentine --default, abyss --prefersdark, cupcake;
 }
->>>>>>> f9ef652ded7c533d54abeb6a675d39a78431f956

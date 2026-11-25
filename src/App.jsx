@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-
-import { RouterProvider } from "react-router-dom";
-import router from "./routers";
-import "./index.css";
-
-function App() {
-  return <RouterProvider router={router} />;
-}
-=======
 import React from "react";
 import Counter from "./components/Counter";
 import ThemeSwap from "./components/ThemeSwap";
@@ -42,6 +32,5 @@ const App = () => {
 
   );
 };
->>>>>>> f9ef652ded7c533d54abeb6a675d39a78431f956
 
 export default App;
